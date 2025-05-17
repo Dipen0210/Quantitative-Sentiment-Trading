@@ -1,4 +1,4 @@
-# 📈 Quantitative-Sentiment-Trading
+# Quantitative-Sentiment-Trading
 
 This project implements an end-to-end **sentiment-based algorithmic trading strategy** that integrates **Natural Language Processing (NLP)** with **technical indicators** to generate, evaluate, and backtest trading signals. The pipeline utilizes real-time financial news, fine-tuned transformer models (FinBERT), and market momentum indicators (RSI, MACD) to drive data-informed investment decisions.
 
