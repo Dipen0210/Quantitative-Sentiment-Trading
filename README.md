@@ -41,7 +41,7 @@ The project is divided into two phases:
 | Final Portfolio Value      | $134,168.73        |
 | Net Profit                 | $34,168.73         |
 | Return on Investment (ROI)| +34.17%            |
-| Total Trades Executed      | 3                  |
+| Total Trades Executed(sell)     | 1                  |
 | Top Model (Sentiment)      | FinBERT            |
 
 ---
