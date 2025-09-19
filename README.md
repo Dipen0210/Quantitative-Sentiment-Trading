@@ -82,3 +82,24 @@ Averaged signal thresholds:
 - Expand to high-frequency intraday decision-making.
 - Support broader asset classes (ETFs, commodities, crypto).
 - Add explainability tools (e.g., SHAP, LIME) for model transparency.
+
+---
+
+SUP Project Licensing
+
+Copyright (c) 2025 [Your Name / SUP Project Team]
+
+This repository contains both source code and documentation.  
+They are licensed under separate terms:
+
+1. Code:
+   Licensed under the Apache License, Version 2.0.
+   You may not use this code except in compliance with the License.
+   http://www.apache.org/licenses/LICENSE-2.0
+
+2. Documentation (including PDFs, notes, and research drafts):
+   Licensed under the Creative Commons Attribution 4.0 International License (CC-BY).
+   https://creativecommons.org/licenses/by/4.0/
+
+By using this repository, you agree to comply with the above terms.
+
