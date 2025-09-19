@@ -85,21 +85,12 @@ Averaged signal thresholds:
 
 ---
 
-SUP Project Licensing
+## 📜 License
 
-Copyright (c) 2025 [Your Name / SUP Project Team]
+This project contains both source code and documentation, which are licensed separately:
 
-This repository contains both source code and documentation.  
-They are licensed under separate terms:
+- **Code**: [Apache License 2.0](./LICENSE)  
+- **Documentation**: Creative Commons [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
 
-1. Code:
-   Licensed under the Apache License, Version 2.0.
-   You may not use this code except in compliance with the License.
-   http://www.apache.org/licenses/LICENSE-2.0
-
-2. Documentation (including PDFs, notes, and research drafts):
-   Licensed under the Creative Commons Attribution 4.0 International License (CC-BY).
-   https://creativecommons.org/licenses/by/4.0/
-
-By using this repository, you agree to comply with the above terms.
+See the [LICENSE](./LICENSE) file for details.
 
