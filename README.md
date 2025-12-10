@@ -85,12 +85,12 @@ Averaged signal thresholds:
 
 ---
 
-## 📜 License
+## Output
 
-This project contains both source code and documentation, which are licensed separately:
+<img width="860" height="506" alt="Screenshot 2025-05-08 at 1 22 40 AM" src="https://github.com/user-attachments/assets/2b71ac67-9494-42e5-89fd-589ab4dbd8e7" />
 
-- **Code**: [Apache License 2.0](./LICENSE)  
-- **Documentation**: Creative Commons [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+<img width="1387" height="383" alt="Screenshot 2025-04-18 at 11 38 37 PM" src="https://github.com/user-attachments/assets/4a88f6b6-0aab-4bd8-b3d9-d11b8b225d8b" />
 
-See the [LICENSE](./LICENSE) file for details.
+<img width="464" height="169" alt="Screenshot 2025-04-18 at 11 46 25 PM" src="https://github.com/user-attachments/assets/ecc1199b-5c9d-41a8-b61c-3fce9135f99c" />
 
+---
