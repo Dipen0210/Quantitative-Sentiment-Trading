@@ -38,9 +38,9 @@ The project is divided into two phases:
 | Metric                      | Value              |
 |----------------------------|--------------------|
 | Starting Capital           | $100,000           |
-| Final Portfolio Value      | $134,168.73        |
-| Net Profit                 | $34,168.73         |
-| Return on Investment (ROI)| +34.17%            |
+| Final Portfolio Value      | $125,970.73        |
+| Net Profit                 | $25,970.73         |
+| Return on Investment (ROI)| +25.97%            |
 | Total Trades Executed(sell)     | 1                  |
 | Top Model (Sentiment)      | FinBERT            |
 
